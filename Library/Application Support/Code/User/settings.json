@@ -1,0 +1,28 @@
+{
+    "editor.suggestSelection": "first",
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "FSharp.dotNetRoot": "/usr/local/share/dotnet/",
+    "FSharp.useSdkScripts": true,
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "window.restoreFullscreen": true,
+    "window.zoomLevel": 0,
+    "workbench.iconTheme": "material-icon-theme",
+    "zenMode.hideLineNumbers": false,
+    "zenMode.restore": true,
+    "fantomas.pageWidth": 120,
+    "javascript.preferences.importModuleSpecifier": "relative",
+    "typescript.preferences.importModuleSpecifier": "relative",
+    "files.exclude": {
+        "**/.ionide": true
+    },
+    "[fsharp]": {
+        "editor.formatOnSave": false
+    },
+    "workbench.activityBar.visible": true,
+    "FSharp.showProjectExplorerIn": "explorer",
+    "editor.formatOnSave": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}

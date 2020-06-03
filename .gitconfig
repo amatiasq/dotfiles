@@ -1,0 +1,16 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = A. Matías Quezada
+	email = amatiasq@gmail.com
+[core]
+	editor = vim
+[alias]
+	st = status
+	co = checkout
+	c = commit
+	ca = commit --amend
+	pr = pull --rebasep
+
+[includeIf "gitdir:~/hnc/"]
+	path = ~/hnc/.gitconfig

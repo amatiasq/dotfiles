@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSites</key>
+	<dict>
+		<key>971CF0F7-894C-49EC-9906-8EE6EBFE2642</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>spreadsheet</string>
+			<key>text</key>
+			<string>New Spreadsheet</string>
+			<key>url</key>
+			<string>https://docs.google.com/spreadsheets/u/0/create</string>
+			<key>utf8</key>
+			<false/>
+		</dict>
+		<key>C6214595-8D65-4209-8DC8-F1BAC51FAB17</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>doc</string>
+			<key>text</key>
+			<string>New Document</string>
+			<key>url</key>
+			<string>https://docs.google.com/document/u/0/create</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>FC32C89C-2CF2-46CE-A657-2001ABFB19D4</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>netflix</string>
+			<key>text</key>
+			<string>Buscar en Netflix</string>
+			<key>url</key>
+			<string>https://www.netflix.com/search?q={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
