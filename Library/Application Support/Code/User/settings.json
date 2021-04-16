@@ -1,28 +1,87 @@
 {
-    "editor.suggestSelection": "first",
-    "files.trimFinalNewlines": true,
-    "files.trimTrailingWhitespace": true,
-    "FSharp.dotNetRoot": "/usr/local/share/dotnet/",
-    "FSharp.useSdkScripts": true,
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "window.restoreFullscreen": true,
-    "window.zoomLevel": 0,
-    "workbench.iconTheme": "material-icon-theme",
-    "zenMode.hideLineNumbers": false,
-    "zenMode.restore": true,
-    "fantomas.pageWidth": 120,
-    "javascript.preferences.importModuleSpecifier": "relative",
-    "typescript.preferences.importModuleSpecifier": "relative",
-    "files.exclude": {
-        "**/.ionide": true
-    },
-    "[fsharp]": {
-        "editor.formatOnSave": false
-    },
-    "workbench.activityBar.visible": true,
-    "FSharp.showProjectExplorerIn": "explorer",
-    "editor.formatOnSave": true,
-    "[typescript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.suggestSelection": "first",
+  "fantomas.pageWidth": 120,
+  "files.exclude": { "**/.ionide": true },
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "FSharp.dotNetRoot": "/usr/local/share/dotnet/",
+  "FSharp.showProjectExplorerIn": "explorer",
+  "FSharp.useSdkScripts": true,
+  "glsl-canvas.useCompactFormatter": false,
+  "javascript.preferences.importModuleSpecifier": "relative",
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "window.restoreFullscreen": true,
+  "workbench.activityBar.visible": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "zenMode.hideLineNumbers": false,
+  "zenMode.restore": true,
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "liveshare.presence": true,
+  "typescript.tsdk": "/Users/amatiasq/.nvm/versions/node/v13.12.0/lib/node_modules/typescript/lib",
+  "zenMode.centerLayout": false,
+  "editor.formatOnSave": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "importSorter.generalConfiguration.sortOnBeforeSave": true,
+  "importSorter.importStringConfiguration.maximumNumberOfImportExpressionsPerLine.type": "newLineEachExpressionAfterCountLimitExceptIfOnlyOne",
+  "importSorter.importStringConfiguration.maximumNumberOfImportExpressionsPerLine.count": 80,
+  "importSorter.importStringConfiguration.tabSize": 2,
+  "importSorter.importStringConfiguration.quoteMark": "single",
+  "vs-kubernetes": {
+    "vs-kubernetes.helm-path": "/usr/local/bin/helm",
+    "vs-kubernetes.minikube-path.mac": "/Users/amatiasq/.vs-kubernetes/tools/minikube/darwin-amd64/minikube",
+    "vs-kubernetes.draft-path.mac": "/Users/amatiasq/.vs-kubernetes/tools/draft/darwin-amd64/draft",
+    "vs-kubernetes.helm-path.mac": "/Users/amatiasq/.vs-kubernetes/tools/helm/darwin-amd64/helm",
+    "vs-kubernetes.kubectl-path.mac": "/Users/amatiasq/.vs-kubernetes/tools/kubectl/kubectl"
+  },
+  "[csharp]": {
+    "editor.defaultFormatter": "ms-dotnettools.csharp",
+    "editor.formatOnSave": false
+  },
+  "[fsharp]": {
+    "editor.formatOnSave": false
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "svg.preview.mode": "svg",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "polacode.backgroundColor": "#000000",
+  "polacode.transparentBackground": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.singleQuote": true,
+  "nasc-touchbar.addCursorBelow": false,
+  "nasc-touchbar.commentLine": true,
+  "nasc-touchbar.showCommands": false,
+  "nasc-touchbar.togglePanel": false,
+  "FSharp.monoPath": "",
+  "emmet.excludeLanguages": [
+    "javascript",
+    "typescript",
+    "javascriptreact",
+    "typescriptreact",
+    "markdown"
+  ],
+  "workbench.editorAssociations": [
+    {
+      "viewType": "jupyter.notebook.ipynb",
+      "filenamePattern": "*.ipynb"
     }
+  ],
+  "FSharp.suggestGitignore": false
 }

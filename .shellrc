@@ -51,3 +51,7 @@ if [ -d /usr/local/opt/gettext/bin ]
 then
     export PATH="/usr/local/opt/gettext/bin:$PATH"
 fi
+
+export PATH=~/Library/Android/sdk/tools:$PATH
+export PATH=~/Library/Android/sdk/platform-tools:$PATH
+
