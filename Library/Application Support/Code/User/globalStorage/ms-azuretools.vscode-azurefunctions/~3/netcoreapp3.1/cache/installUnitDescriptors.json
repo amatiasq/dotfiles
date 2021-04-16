@@ -1,0 +1,26 @@
+﻿{
+  "Descriptors": {
+    "a94e5ed0-ac7d-4a16-95b4-45575944c897": {
+      "DescriptorId": "a94e5ed0-ac7d-4a16-95b4-45575944c897",
+      "Identifier": "Microsoft.Azure.WebJobs.ProjectTemplates",
+      "FactoryId": "ac33c6a1-52ca-4215-b72d-2dce7f6a1d2f",
+      "MountPointId": "8388f3b0-086b-4ae2-a83d-50d8f96c63ea",
+      "Details": {
+        "NuGetPackageId": "Microsoft.Azure.WebJobs.ProjectTemplates",
+        "Version": "3.1.1648",
+        "Author": "Microsoft"
+      }
+    },
+    "5ac22e67-2f78-4020-9af5-ded49b0656c9": {
+      "DescriptorId": "5ac22e67-2f78-4020-9af5-ded49b0656c9",
+      "Identifier": "Microsoft.Azure.WebJobs.ItemTemplates",
+      "FactoryId": "ac33c6a1-52ca-4215-b72d-2dce7f6a1d2f",
+      "MountPointId": "41902d8f-b47f-4f7b-85e5-10548a52fc46",
+      "Details": {
+        "NuGetPackageId": "Microsoft.Azure.WebJobs.ItemTemplates",
+        "Version": "3.1.1648",
+        "Author": "Microsoft"
+      }
+    }
+  }
+}
